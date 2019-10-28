@@ -26,5 +26,7 @@ Installation:
 
 To work, Notes.exe needs the folder "Notes" and Cards.exe needs the folder "Cards"
 
+Only tested on Windows 10 PC
+
 Revision Helper
 Made by Josh Bissell
