@@ -24,5 +24,7 @@ Installation:
 
 -Done!
 
+To work, Notes.exe needs the folder "Notes" and Cards.exe needs the folder "Cards"
+
 Revision Helper
 Made by Josh Bissell
